@@ -1,3 +1,5 @@
 Here is my first commit.
 
 This is my second commit.
+
+Now see if it shows in git diff. 
